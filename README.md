@@ -421,6 +421,9 @@ feature-flags:
     RDSInstance: true
     EC2Instance: true
     CloudformationStack: true
+    ELBv2: true
+    QLDBLedger: true
+    
   force-delete-lightsail-addons: true
 ```
 
